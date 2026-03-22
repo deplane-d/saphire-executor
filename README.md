@@ -1,4 +1,6 @@
 # Sphire Executor
+<img width="1024" height="644" alt="image" src="https://github.com/user-attachments/assets/edd7d2dc-fb09-47e8-a932-bd0dd8dc35f2" />
+
 
 ## How to Download
 1. Go to the [Sphire Executor Releases](https://github.com/deplane-d/saphire-executor/releases) page.
