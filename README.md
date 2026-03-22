@@ -35,9 +35,9 @@ To add custom scripts:
 ## Safety Warnings
 - Always review scripts from unknown sources before execution.
 - Avoid executing scripts with destructive commands or operations.
-- Русская версия 🇷🇺
 
 
+## Русская версия 🇷🇺
 
 Как скачать? 📩
 Перейдите на официальный GitHub репозиторий
