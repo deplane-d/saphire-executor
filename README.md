@@ -1,5 +1,5 @@
 # Sphire Executor
-<img width="1024" height="644" alt="image" src="https://github.com/user-attachments/assets/edd7d2dc-fb09-47e8-a932-bd0dd8dc35f2" />
+<img width="1024" height="644" alt="image" src="https://github.com/user-attachments/assets/7571744f-1614-4750-925a-6cc86b2616fc" />
 
 
 ## How to Download
